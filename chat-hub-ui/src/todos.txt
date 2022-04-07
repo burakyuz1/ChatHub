@@ -1,0 +1,7 @@
+soldaki menü overlay olacak++
+gönder butonu küçülüyor,düzelt++
+leave butonu icon yap++
+___
+
+odadaki aktif kişi sayısı?
+odalar  statik olsun(select ile)
